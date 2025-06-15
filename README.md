@@ -1,3 +1,4 @@
+### 与主仓库的区别: no emoji , 自动选择 default | 仅 cfg/Custom_Clash.ini
 <h1 align="center">OpenClash 保姆级设置方案<br>&<br>全分组防泄漏订阅转换规则</h1>
 
 <p align="center">
